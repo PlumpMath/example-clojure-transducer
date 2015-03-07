@@ -1,0 +1,4 @@
+* examples-transducer
+** License
+Copyright © 2015 Jinseop Kim (vmfhrmfoaj@yahoo.com)
+Distributed under the GPLv2, You can see detail at `LICENSE` file.
